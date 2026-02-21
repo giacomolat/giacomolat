@@ -1,18 +1,3 @@
-<!--
-**giacomolat/giacomolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Giacomo 👋
 
 🎓 First Level Master Degree in Data and process analysis and modelling: methods and models (UnitelmaSapienza University of Rome) – expected graduation: March 2026<br> 
@@ -35,7 +20,8 @@ My current interests include:
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, R, SQL  
-- **Data & BI:** Grafana, Metabase, Google Sheets  
-- **Data Platforms:** ClickHouse, PostgreSQL, Oracle 
-- **Other:** Git, Docker (basic), data modelling & ETL concepts  
+- **Languages:** Python, R, SQL
+- **Data & BI:** Grafana, Metabase, Google Sheets
+- **Data Platforms:** ClickHouse, PostgreSQL, Oracle
+- **Machine Learning (academic & project experience):** Python library (pandas, seaborn, matplotlib, scikit-learn, statsmodels, nltk), data preprocessing, feature engineering, model evaluation
+- **Other:** Git, Docker (basic) 
