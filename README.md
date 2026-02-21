@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 # Hi, I'm Giacomo 👋
 
-🎓 First Level Master Degree in Data and process analysis and modelling: methods and models (UnitelmaSapienza University of Rome) – expected graduation: March 2026  
-🎓 First Level Master Degree in Data Science: Information & Knowledge Management per Data Scientist (Niccolò Cusano University of Rome) – graduated in June 2025 
-🎓 Bachelor’s degree in Computer Science (Sapienza University of Rome) – graduated in July 2021 
-💼 Data Analytics & BI @ OpenCity  
+🎓 First Level Master Degree in Data and process analysis and modelling: methods and models (UnitelmaSapienza University of Rome) – expected graduation: March 2026<br> 
+🎓 First Level Master Degree in Data Science: Information & Knowledge Management per Data Scientist (Niccolò Cusano University of Rome) – graduated in June 2025<br>
+🎓 Bachelor’s degree in Computer Science (Sapienza University of Rome) – graduated in July 2021<br>
+💼 Data Analytics & BI @ OpenCity<br>
 📊 Focus on dashboards, data quality and analytical data pipelines for public sector services  
 
 ---
 
 ## 🔎 About me
-I am a junior data professional with a background in Computer Science and experience in Business Intelligence and data analysis.  
-I work on end-to-end dashboards, data transformations in Python, and analytical queries on modern data stacks.
+I have a background in Computer Science and experience in Business Intelligence and data analysis.  
+I work on end-to-end dashboards, Python-based data transformations, and analytical queries on modern data platforms.
 
 My current interests include:
 - BI & analytics engineering
