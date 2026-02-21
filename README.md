@@ -23,5 +23,5 @@ My current interests include:
 - **Languages:** Python, R, SQL
 - **Data & BI:** Grafana, Metabase, Google Sheets, Tableau
 - **Data Platforms:** ClickHouse, PostgreSQL, Oracle
-- **Machine Learning (academic & project experience):** Python library (pandas, seaborn, matplotlib, scikit-learn, statsmodels), data preprocessing, feature engineering, model evaluation
+- **Machine Learning:** Python library (pandas, seaborn, matplotlib, scikit-learn, statsmodels), data preprocessing, feature engineering, model evaluation
 - **Other:** Git, Docker (basic)
