@@ -21,7 +21,7 @@ My current interests include:
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, R, SQL
-- **Data & BI:** Grafana, Metabase, Google Sheets
+- **Data & BI:** Grafana, Metabase, Google Sheets, Tableau
 - **Data Platforms:** ClickHouse, PostgreSQL, Oracle
-- **Machine Learning (academic & project experience):** Python library (pandas, seaborn, matplotlib, scikit-learn, statsmodels, nltk), data preprocessing, feature engineering, model evaluation
-- **Other:** Git, Docker (basic) 
+- **Machine Learning (academic & project experience):** Python library (pandas, seaborn, matplotlib, scikit-learn, statsmodels), data preprocessing, feature engineering, model evaluation
+- **Other:** Git, Docker (basic)
