@@ -3,7 +3,7 @@
 🎓 First Level Master Degree in Data and process analysis and modelling: methods and models (UnitelmaSapienza University of Rome) – expected graduation: March 2026<br> 
 🎓 First Level Master Degree in Data Science: Information & Knowledge Management per Data Scientist (Niccolò Cusano University of Rome) – graduated in June 2025<br>
 🎓 Bachelor’s degree in Computer Science (Sapienza University of Rome) – graduated in July 2021<br>
-💼 Data Analytics & BI @ OpenCity<br>
+💼 Data Analytics & BI @ OpenCity Italia S.r.l.<br>
 📊 Focus on dashboards, data quality and analytical data pipelines for public sector services  
 
 ---
@@ -23,5 +23,5 @@ My current interests include:
 - **Languages:** Python, R, SQL
 - **Data & BI:** Grafana, Metabase, Google Sheets, Tableau
 - **Data Platforms:** ClickHouse, PostgreSQL, Oracle
-- **Machine Learning:** Python library (pandas, seaborn, matplotlib, scikit-learn, statsmodels), data preprocessing, feature engineering, model evaluation
-- **Other:** Git, Docker (basic)
+- **Machine Learning:** Python library (Pandas, Seaborn, Matplotlib, Scikit-learn, statsmodels), data preprocessing, feature engineering, model evaluation
+- **Other:** Git, Docker
