@@ -1,10 +1,10 @@
 # Hi, I'm Giacomo 👋
 
-🎓 first-level Master’s degree in Data and process analysis and modelling: methods and models (UnitelmaSapienza University of Rome) – expected graduation: March 2026<br> 
-🎓 first-level Master’s degree in Data Science: Information & Knowledge Management per Data Scientist (Niccolò Cusano University of Rome) – graduated in June 2025<br>
-🎓 Bachelor’s degree in Computer Science (Sapienza University of Rome) – graduated in July 2021<br>
-💼 Data Analytics & BI @ OpenCity Italia S.r.l.<br>
-📊 Focus on dashboards, data quality and analytical data pipelines for public sector services  
+🎓 First-level Master’s degree in Data and process analysis and modelling: methods and models at UnitelmaSapienza University of Rome – 110/110 cum laude, graduated in March 2026<br>
+🎓 First-level Master’s degree in Data science: information & knowledge management per data scientist at Niccolò Cusano University of Rome – 110/110, graduated in June 2025<br>
+🎓 Bachelor’s degree in Computer Science at Sapienza University of Rome – graduated in July 2021<br>
+💼 Data Analytics & Business Intelligence Specialist @ OpenCity Italia S.r.l.<br>
+📊 Focus on dashboards, data quality and analytical data pipelines for public sector services
 
 ---
 
@@ -20,8 +20,9 @@ My current interests include:
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, R, SQL
-- **Data & BI:** Grafana, Metabase, Google Sheets, Tableau
-- **Data Platforms:** ClickHouse, PostgreSQL, Oracle
-- **Machine Learning:** Python library (Pandas, Seaborn, Matplotlib, Scikit-learn, statsmodels), data preprocessing, feature engineering, model evaluation
-- **Other:** Git, Docker
+- **Programming & Querying**: Python, SQL
+- **Data Analysis**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, statsmodels
+- **BI & Visualization**: Tableau, Metabase, Grafana, Google Sheets
+- **Databases**: ClickHouse, Oracle, MySQL, PostgreSQL
+- **Data Integration**: Kafka (basic), ETL workflows
+- **Tools**: Git, GitLab, Jira, Docker (basic), Linux, Excel
