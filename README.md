@@ -1,10 +1,10 @@
 # Hi, I'm Giacomo 👋
 
-🎓 First-level Master’s degree in Data and process analysis and modelling: methods and models at UnitelmaSapienza University of Rome – 110/110 cum laude, graduated in March 2026<br>
-🎓 First-level Master’s degree in Data science: information & knowledge management per data scientist at Niccolò Cusano University of Rome – 110/110, graduated in June 2025<br>
-🎓 Bachelor’s degree in Computer Science at Sapienza University of Rome – graduated in July 2021<br>
-💼 Data Analytics & Business Intelligence Specialist @ OpenCity Italia S.r.l.<br>
-📊 Focus on dashboards, data quality and analytical data pipelines for public sector services
+- 🎓 First-level Master’s degree in Data and process analysis and modelling: methods and models at UnitelmaSapienza University of Rome – 110/110 cum laude, graduated in March 2026
+- 🎓 First-level Master’s degree in Data science: information & knowledge management per data scientist at Niccolò Cusano University of Rome – 110/110, graduated in June 2025
+- 🎓 Bachelor’s degree in Computer Science at Sapienza University of Rome – graduated in July 2021
+- 💼 Data Analytics & Business Intelligence Specialist @ OpenCity Italia S.r.l.
+- 📊 Focus on dashboards, data quality and analytical data pipelines for public sector services
 
 ---
 
