@@ -3,7 +3,7 @@
 - 🎓 First-level Master’s degree in Data and process analysis and modelling: methods and models at UnitelmaSapienza University of Rome – 110/110 cum laude, graduated in March 2026
 - 🎓 First-level Master’s degree in Data Science: Information & Knowledge Management for Data Scientists at Niccolò Cusano University of Rome – 110/110, graduated in June 2025
 - 🎓 Bachelor’s degree in Computer Science at Sapienza University of Rome – graduated in July 2021
-- 💼 Data Analytics & Business Intelligence Specialist @ OpenCity Italia S.r.l.
+- 💼 Data Engineer & Business Intelligence Specialist @ OpenCity Italia S.r.l.
 - 📊 Working on data pipelines, data quality, analytics and BI solutions for public sector services
 
 ---
